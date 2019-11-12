@@ -1,5 +1,5 @@
 set nocompatible
-execute pathogen#infect()
+" execute pathogen#infect()
 filetype indent plugin on
 syntax on
 set hidden
